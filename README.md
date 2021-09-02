@@ -1,3 +1,3 @@
 # Data sience ibm course capstone
-`**Manh Cuong Nguyen**`
+`Manh Cuong Nguyen`
 ___
